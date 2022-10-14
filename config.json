@@ -1,0 +1,19 @@
+{
+    "headless": true,
+    "nextUrlTimeout": 1000,
+    "nextLoopTimeout": 20000,
+    "items": [
+        {
+            "url": "https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=211&SortBy=LastSeen&Order=asc",
+            "price": 10000
+        },
+        {
+            "url": "https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=10704&ItemNamePattern=Deadly+Dagger&ItemQualityID=3&LevelMin=160&SortBy=LastSeen&Order=desc",
+            "price": 500000
+        },
+        {
+            "url": "https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=5687&SortBy=LastSeen&Order=desc",
+            "price": 8000
+        }
+    ]
+}
