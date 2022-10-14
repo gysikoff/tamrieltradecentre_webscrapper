@@ -3,7 +3,7 @@ get notifications when someone lists a cheap item
 
 ![image](https://user-images.githubusercontent.com/73183321/195930616-8d6cd18e-c451-4465-aca3-69bbc40c49b7.png)
 
-Bot is based on selenium-webdriver for it to work you have to download chromedriver matching your chrome version -> https://chromedriver.chromium.org/ and add it to system PATH variables
+Bot is based on selenium-webdriver, for it to work you have to download chromedriver matching your chrome version -> https://chromedriver.chromium.org/ and add it to system PATH variables
 
 To turn off webdriver's popup window set headless option in config.json to true
 
